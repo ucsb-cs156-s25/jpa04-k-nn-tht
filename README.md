@@ -1,4 +1,4 @@
-# k-nn-tht-jpa04
+# jpa04-k-nn-tht
 
 Running at: <[https://jpa04-k-nn-tht.dokku-13.cs.ucsb.edu](https://jpa04-k-nn-tht.dokku-13.cs.ucsb.edu)>
 
